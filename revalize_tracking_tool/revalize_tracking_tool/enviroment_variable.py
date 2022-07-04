@@ -1,0 +1,2 @@
+VALID_HOUR_OF_COOKIE = 8
+COOKIE_KEY = 'cookie'
